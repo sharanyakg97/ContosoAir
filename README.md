@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sharanyakg4279/javawebapp/_apis/build/status/sharanyakg97.ContosoAir?branchName=master)](https://dev.azure.com/sharanyakg4279/javawebapp/_build/latest?definitionId=17&branchName=master)
 
 
 # Microsoft.Github CI Demo
